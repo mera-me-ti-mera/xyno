@@ -17,5 +17,19 @@ For North Carolina General Assembly
   * [x] Scrape Introduced bills
   * [x] Scrape Votes
   * [x] Scrape Committees
-  * [ ] Extract 
+  * [ ] Extract bio details
+    * [Eric Ager](https://ncleg.gov/Members/Biography/H/819)
+      * [ ] Name
+      * [ ] Party
+      * [ ] Elected Office
+      * [ ] District
+      * [ ] Legislative Office
+      * [ ] Mailing Address
+      * [ ] Terms
+      * [ ] Occupation
+      * [ ] Main Phone
+      * [ ] Military
+      * [ ] Experience (presumed military)
+      * [ ] Member's Email
+      * [ ] Legislative Assistant
 * [ ] Scrape each district for map (May be simpler to just grab from dl.ncsbe.gov)
